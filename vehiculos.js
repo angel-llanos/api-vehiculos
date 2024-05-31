@@ -5,7 +5,7 @@ const vehiculos = [
     {
       id: 1,
       marca: "Ferrari",
-      imagen: "./img/ferrari_488_gtb.jpg",
+      imagen: "ferrari_488_gtb.jpg",
       descripcion: "El Ferrari 488 GTB es un superdeportivo producido por el fabricante italiano Ferrari.",
       anio: 2020,
       modelo: "488 GTB",
